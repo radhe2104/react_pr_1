@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CLASS2fegefeffwfwfwfw
+          CLASS2fegefeffwfwfwfwwfwefwe
         </a>
       </header>
     </div>
